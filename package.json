@@ -11,7 +11,7 @@
     "@wdio/sync": "7.8.0",
     "chromedriver": "90.0.1",
     "jasmine": "3.8.0",
-    "wdio-chromedriver-service": "7.2.0"
+    "wdio-chromedriver-service": "7.3.2"
   },
   "description": "WebdriverIO end-to-end test automation boilerplate. Using ES Modules, Babel, Jasmine and Expect.",
   "devDependencies": {
